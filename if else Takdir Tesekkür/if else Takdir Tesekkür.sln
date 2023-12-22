@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "if else Takdir Tesekkür", "if else Takdir Tesekkür\if else Takdir Tesekkür.csproj", "{63C775E0-9B9E-439C-A66A-7DE9252EDBF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C775E0-9B9E-439C-A66A-7DE9252EDBF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C775E0-9B9E-439C-A66A-7DE9252EDBF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C775E0-9B9E-439C-A66A-7DE9252EDBF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C775E0-9B9E-439C-A66A-7DE9252EDBF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C059CCDE-C350-4EBF-98A8-40C5D4D46084}
+	EndGlobalSection
+EndGlobal

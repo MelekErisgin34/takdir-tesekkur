@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Takdir Tesekkür\if else Takdir Tesekkür\bin\Debug\if else Takdir Tesekkür.exe.config
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Takdir Tesekkür\if else Takdir Tesekkür\bin\Debug\if else Takdir Tesekkür.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Takdir Tesekkür\if else Takdir Tesekkür\bin\Debug\if else Takdir Tesekkür.pdb
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Takdir Tesekkür\if else Takdir Tesekkür\obj\Debug\if else Takdir Tesekkür.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Takdir Tesekkür\if else Takdir Tesekkür\obj\Debug\if else Takdir Tesekkür.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Takdir Tesekkür\if else Takdir Tesekkür\obj\Debug\if_else_Takdir_Tesekkür.Form1.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Takdir Tesekkür\if else Takdir Tesekkür\obj\Debug\if_else_Takdir_Tesekkür.Properties.Resources.resources
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Takdir Tesekkür\if else Takdir Tesekkür\obj\Debug\if else Takdir Tesekkür.csproj.GenerateResource.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Takdir Tesekkür\if else Takdir Tesekkür\obj\Debug\if else Takdir Tesekkür.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Takdir Tesekkür\if else Takdir Tesekkür\obj\Debug\if else Takdir Tesekkür.exe
+C:\Users\User\Desktop\KORUMASIZ\dilan_kaya_273_10\if else Takdir Tesekkür\if else Takdir Tesekkür\obj\Debug\if else Takdir Tesekkür.pdb
